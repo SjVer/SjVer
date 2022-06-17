@@ -1,6 +1,6 @@
 # Sjoerd Vermeulen (SjVer)
 ### Current projects:
-[Evi-Lang](https://github.com/SjVer/Evi-Lang) <br>
+[Evi-Lang](https://github.com/SjVer/Evi-Lang) (my pride, though i no longer work on it) <br>
 [EviIr](https://github.com/SjVer/EviIr) <br>
 [MQS](https://github.com/SjVer/MQS)
 ### Language stats:
